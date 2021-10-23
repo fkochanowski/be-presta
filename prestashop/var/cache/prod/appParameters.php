@@ -1,0 +1,25 @@
+<?php return array (
+  'parameters' => 
+  array (
+    'database_host' => '127.0.0.1',
+    'database_port' => '8889',
+    'database_name' => 'projekt_studia',
+    'database_user' => 'root',
+    'database_password' => 'root',
+    'database_prefix' => 'ps_',
+    'database_engine' => 'InnoDB',
+    'mailer_transport' => 'smtp',
+    'mailer_host' => '127.0.0.1',
+    'mailer_user' => NULL,
+    'mailer_password' => NULL,
+    'secret' => 'cRmpXbSXIS27S2FQrCr237qbTMZFpv8rHVBO18aDgaPW36nw4McWz2YJHIGsNcG4',
+    'ps_caching' => 'CacheMemcache',
+    'ps_cache_enable' => false,
+    'ps_creation_date' => '2021-10-23',
+    'locale' => 'pl-PL',
+    'use_debug_toolbar' => true,
+    'cookie_key' => 'f1O3sWvIEIA63pM5DwwaCDnZW5YDIwHh0AYVZqrUMxxigfuiFx87MvqOTv1knf12',
+    'cookie_iv' => 'Q7Wz1BwCXEW7mJsLg1ZseVNFM37L6XOk',
+    'new_cookie_key' => 'def00000d26b0cbdf89db9ad830e73cb96c3e8949d8f0d94d89039edbef32e9878c3b065968b4b9e2b78e624a4cb5c4973e4dac24816aed73b2a2287844a016ed7dce7ed',
+  ),
+);

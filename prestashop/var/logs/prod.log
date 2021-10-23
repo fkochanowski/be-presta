@@ -1,0 +1,7 @@
+[2021-10-23 10:25:28] app.ERROR: Data from PrestaShop Addons is invalid, and cannot fallback on cache. [] []
+[2021-10-23 10:25:30] app.INFO: Protect vendor folder in module gamification [] []
+[2021-10-23 10:25:30] app.INFO: Protect vendor folder in module psgdpr [] []
+[2021-10-23 10:25:30] app.INFO: Protect vendor folder in module ps_mbo [] []
+[2021-10-23 10:25:30] app.INFO: Protect vendor folder in module ps_buybuttonlite [] []
+[2021-10-23 10:25:33] app.INFO: Protect vendor folder in module ps_metrics [] []
+[2021-10-23 10:25:33] app.INFO: Protect vendor folder in module ps_facebook [] []
