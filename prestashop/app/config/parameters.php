@@ -1,7 +1,7 @@
 <?php return array (
   'parameters' => 
   array (
-    'database_host' => 'mysql',
+    'database_host' => 'database',
     'database_port' => '3306',
     'database_name' => 'projek28_baza',
     'database_user' => 'projek28_user',
