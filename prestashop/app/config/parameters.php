@@ -2,10 +2,10 @@
   'parameters' => 
   array (
     'database_host' => '127.0.0.1',
-    'database_port' => '8889',
-    'database_name' => 'projekt_studia',
-    'database_user' => 'root',
-    'database_password' => 'root',
+    'database_port' => '3306',
+    'database_name' => 'projek28_baza',
+    'database_user' => 'projek28_user',
+    'database_password' => 'rootpassword',
     'database_prefix' => 'ps_',
     'database_engine' => 'InnoDB',
     'mailer_transport' => 'smtp',
