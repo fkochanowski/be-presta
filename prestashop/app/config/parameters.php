@@ -3,7 +3,7 @@
   array (
     'database_host' => 'actina15.maas',
     'database_port' => '3306',
-    'database_name' => 'projek28_baza',
+    'database_name' => 'BE_11935_1',
     'database_user' => 'projek28_user',
     'database_password' => 'rootpassword',
     'database_prefix' => 'ps_',
