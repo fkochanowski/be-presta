@@ -1,3 +1,3 @@
 FROM scratch
 COPY prestashop/. .
-RUN chmodd -R 777 .
+RUN chmod -R 777 .
