@@ -1,0 +1,10 @@
+version: '3.3'
+
+services:
+  presta:
+    image: fkoch1/be_11935_1_a
+    ports: 
+      - "11935:80"
+
+    
+
