@@ -55,7 +55,7 @@ Disallow: /*controller=search
 Disallow: /*controller=statistics
 Disallow: /*controller=attachment
 Disallow: /*controller=guest-tracking
-# Directories for localhost:8888
+# Directories for projekt-pg.vxm.pl
 Disallow: /prestashop/app/
 Disallow: /prestashop/cache/
 Disallow: /prestashop/classes/
